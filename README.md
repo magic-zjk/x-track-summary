@@ -22,4 +22,5 @@ pcb下单：https://github.com/magic-zjk/x-track-summary/tree/main/%E6%9D%90%E6%
 
 3D打印文件：https://github.com/magic-zjk/x-track-summary/tree/main/%E6%9D%90%E6%96%99%E9%87%87%E8%B4%AD/2-3D%E6%89%93%E5%8D%B0
 
-一键下单元器件：https://github.com/magic-zjk/x-track-summary/tree/main/%E6%9D%90%E6%96%99%E9%87%87%E8%B4%AD/3-%E5%85%83%E5%99%A8%E4%BB%B6%E9%87%87%E8%B4%AD#readme
+一键下单元器件：~~https://github.com/magic-zjk/x-track-summary/tree/main/%E6%9D%90%E6%96%99%E9%87%87%E8%B4%AD/3-%E5%85%83%E5%99%A8%E4%BB%B6%E9%87%87%E8%B4%AD#readme~~
+18£Bi743fLAPrb£ https://m.tb.cn/h.gNVNEXJ HU9196 心愿单202408232053
